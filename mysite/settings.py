@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.sites',
+    'django.contrib.sitemaps',
 
     # Local Apps
     'blog.apps.BlogConfig',
@@ -132,7 +134,7 @@ EMAIL_HOST_PASSWORD = 'Dd3063489**'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
-
+SITE_ID = 1
 
 
 
