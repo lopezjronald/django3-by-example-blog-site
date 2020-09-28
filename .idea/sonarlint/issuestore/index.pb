@@ -33,3 +33,6 @@ S
 #blog/templates/blog/post/share.html,f\5\f55f05a0f1ddfee3577ecb4120c8cf06bf358c23
 =
 blog/forms.py,8\d\8dc45ed33dbcc8b65458ba016179df9d26f67b91
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
